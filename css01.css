@@ -10,7 +10,7 @@ body{
 header{ 
     height: 160px;
     padding:25px;
-    background-image: url('../img/header-image-1.png');
+    background-image: url('header-image-1.png');
     background-size: cover;
     margin-top:-40px;
 }
